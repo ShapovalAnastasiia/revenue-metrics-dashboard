@@ -100,7 +100,7 @@ LAG(payment_month) OVER (PARTITION BY user_id, game_name ORDER BY payment_month)
 
 LEAD(payment_month) OVER (PARTITION BY user_id, game_name ORDER BY payment_month)
 
-📌 Full query available in > script.sql
+📌 Full query available in script.sql
 
 ## Skills Demonstrated
 
