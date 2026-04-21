@@ -1,6 +1,6 @@
 # revenue-metrics-dashboard
 
-# 📊 Revenue Metrics Dashboard (DBeaver & Tableau)
+# 📊 Product Revenue Analytics Dashboard (DBeaver & Tableau)
 
 ## Overview
 
