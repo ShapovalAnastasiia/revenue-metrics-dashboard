@@ -1,6 +1,4 @@
-# revenue-metrics-dashboard
-
-# 📊 Product Revenue Analytics Dashboard (DBeaver & Tableau)
+# Product Revenue Analytics Dashboard (DBeaver & Tableau)
 
 ## Overview
 
@@ -100,7 +98,7 @@ LAG(payment_month) OVER (PARTITION BY user_id, game_name ORDER BY payment_month)
 
 LEAD(payment_month) OVER (PARTITION BY user_id, game_name ORDER BY payment_month)
 
-📌 Full query available in script.sql
+Full query available in script.sql
 
 ## Skills Demonstrated
 
